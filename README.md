@@ -1,11 +1,2 @@
 # Banking-Application
-My goal is to write a command-line program, in Java, to act as a simple banking application, with bank accounts. Each bank account has a name (the person holding the account), a balance and a list of transactions. List of features that the program should have:
-1.	The ability to list all bank accounts’ names in the system – there should be at least two in the program when it is first run [1]
-2.	The ability to view an individual bank account with its balance and list of transactions [2]
-3.	The ability to add new transactions to a bank account’s list of transactions – this should also affect the account’s balance [4]
-4.	The ability to remove any bank account from the system [3]
-5.	The ability to create new bank accounts, with an initial name and balance that the user may provide [2]
-
-It is up to you how you design the steps of this command-line program, as long as you include the functionality detailed above. Each of the functionalities above is given a points score in brackets (to make a total of 12); this relates to the Functionality assessment criterion below.
-
-
+a Java-based command-line banking application that allows users to manage bank accounts with essential functionalities. Each bank account includes an account holder's name, a balance, and a transaction history. The program starts with at least two predefined accounts and supports listing all account names, viewing individual account details (including balance and transactions), adding new transactions that update the balance, removing accounts from the system, and creating new accounts with an initial balance. The implementation follows a structured and user-friendly approach, ensuring smooth interaction through command-line inputs. The program is designed to be modular and maintainable, with clear logic for handling account operations. To run the application, compile and execute the Java program in a terminal, following the provided prompts to interact with the banking system.
